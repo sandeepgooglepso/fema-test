@@ -58,3 +58,6 @@ loadScript("https://unpkg.com/leaflet@1.7.1/dist/leaflet.js", function() {
     });
 
 });
+
+loadScript("https://unpkg.com/leaflet@1.7.1/dist/leaflet.css", function() { /* CSS loaded callback */ });
+
